@@ -1,15 +1,17 @@
-# PROGETTO COMICBOOKING
+# COMICBOOKING PROJECT
 
 
 ![logo](https://github.com/carnivuth/comicBooking/blob/main/web/view/media/comic1.png) 
 
-this is a prototype for the project ComicBooking 
+This is a prototype for the project ComicBooking 
 
 ## INSTALLATION
 
-the prototype it's written in java and runs on a java web container, to run the project follow the installation guide below 
+The prototype it's written in java and runs on a java web container, to run the project follow the installation guide below 
 
 * clone repo [here](https://github.com/carnivuth/comicBooking.git)
 * setup environment.properties 
 * run ant target
 * enjoy booking app :)
+
+
